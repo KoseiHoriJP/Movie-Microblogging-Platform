@@ -1,5 +1,7 @@
 # CinePost — Movie Microblogging Platform
 
+**English** | [日本語](README.ja.md)
+
 A microblogging platform for film enthusiasts. Write short reviews on movies, follow other users, and discover people who share your taste.
 
 ## Stack

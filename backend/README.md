@@ -1,5 +1,7 @@
 # Backend API
 
+**English** | [日本語](README.ja.md)
+
 Express + SQLite backend for the CinePost movie microblogging platform.
 
 ## Setup

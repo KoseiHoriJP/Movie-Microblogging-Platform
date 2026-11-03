@@ -1,5 +1,7 @@
 # Frontend
 
+**English** | [日本語](README.ja.md)
+
 React + Vite frontend for the CinePost movie microblogging platform.
 
 ## Setup
